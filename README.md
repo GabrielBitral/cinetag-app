@@ -26,3 +26,5 @@ Projeto de um site de galeria vídeos e filmes, utilizando React com Vite.
 - VSCode;
 
 ## 🖼 Preview:
+
+![image](https://github.com/GabrielBitral/cinetag-app/assets/77023882/8739d4db-e4f3-469b-9708-fa692374a1ab)
