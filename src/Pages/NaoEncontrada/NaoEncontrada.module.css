@@ -1,0 +1,9 @@
+.container {
+    min-height: 76.5vh;
+}
+
+.imagemGatilho {
+    margin-top: 4%;
+    width: 300px;
+    border-radius: 50%;
+}
